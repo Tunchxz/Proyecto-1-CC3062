@@ -4,6 +4,7 @@ const Keys = ({ label, keyClass, onButtonClick }) => {
 
     return (
         <div
+            data-testid={`key-${label}`}
             className={`bg-[#272838] flex cursor-pointer items-center justify-center p-4 rounded-[5px] hover:bg-[#647AA3] ${keyClass && equalClass
                 }`}
             onClick={() => onButtonClick(label)}
