@@ -1,12 +1,12 @@
 # **Proyecto 1: Calculadora**
 
-¡Bienvenido! Este es el repositorio del Proyecto 1 de la asignatura Sistemas y Tecnologías Web. Aquí encontrarás la información esencial sobre los requerimientos, ejecución y visualización de este proyecto.
+¡Bienvenido! Este es el repositorio del Proyecto 1 de Sistemas y Tecnologías Web. Aquí se encunetra la información esencial sobre los requerimientos, ejecución y visualización de este proyecto.
 
-En esta actividad, desarrollarás una calculadora simple utilizando herramientas modernas del ecosistema web como React, Vite, TailwindCSS y Bun. El objetivo es poner en práctica conceptos clave como diseño basado en componentes, pruebas automatizadas y verificación de estilo mediante linting.
+En esta actividad, se desarrolla una calculadora simple utilizando herramientas del ecosistema web como React, Vite, TailwindCSS y Bun. El objetivo es poner en práctica conceptos clave como diseño basado en componentes, pruebas automatizadas y verificación de estilo mediante linting.
 
 ## **Requerimientos**
 
-Para optar a una calificación válida, tu proyecto debe cumplir los siguientes requerimientos funcionales y técnicos:
+Para optar a una calificación válida, el proyecto debe cumplir los siguientes requerimientos funcionales y técnicos:
 
 ### Funcionalidad básica
 1. La calculadora debe tener un **display** y un **teclado numérico** con botones HTML.
@@ -45,7 +45,7 @@ Para optar a una calificación válida, tu proyecto debe cumplir los siguientes 
 
 ## **Ejecución del Proyecto**
 
-Asegúrate de tener instalado **Bun** y **Node.js**. Luego, ejecuta los siguientes comandos:
+Asegúrate de tener instalado **Bun** y **Node.js**. Luego, ejecuta los siguientes comandos según lo que desees hacer:
 
 ```bash
 bun install           # Instala las dependencias
@@ -57,7 +57,7 @@ bun run storybook     # Corre la interfaz para ver las historias de Storybook
 
 ## **Visualización del Proyecto**
 
-A continuación se muestra una vista previa de la calculadora en funcionamiento:  
+A continuación se muestra una vista previa del diseño de la calculadora:  
 
 ![CalculadoraWeb](https://i.imgur.com/pRIwz0d.png)  
 
