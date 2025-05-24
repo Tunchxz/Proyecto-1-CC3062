@@ -1,6 +1,6 @@
 const Keys = ({ label, keyClass, onButtonClick }) => {
     const equalClass =
-        "col-[span_2] bg-[#4ccdc6] text-[#ffffff] font-semibold hover:bg-[#334195]";
+        "col-[span_2] bg-[#4ccdc6] text-[#ffffff] font-semibold hover:bg-[#334195]"
 
     return (
         <div
@@ -11,7 +11,7 @@ const Keys = ({ label, keyClass, onButtonClick }) => {
         >
             {label}
         </div>
-    );
-};
+    )
+}
 
-export default Keys;
+export default Keys
